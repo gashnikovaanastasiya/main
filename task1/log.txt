@@ -1,0 +1,11 @@
+commit 4016c5e32cc3390a3c810bef1d0dd205dfd08414
+Author: Anastasia <anastgash@gmail.com>
+Date:   Thu Mar 4 10:15:45 2021 +0300
+
+    add status.txt
+
+commit 12674daff027b1b2fb46265f89e67adffa50d170
+Author: Anastasia <anastgash@gmail.com>
+Date:   Thu Mar 4 10:09:51 2021 +0300
+
+    add.gitignore
